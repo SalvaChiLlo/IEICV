@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SalvaChiLlo/IEICV/issues"
   },
-  "homepage": "https://github.com/SalvaChiLlo/IEICV#readme"
+  "homepage": "https://github.com/SalvaChiLlo/IEICV#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
 }
